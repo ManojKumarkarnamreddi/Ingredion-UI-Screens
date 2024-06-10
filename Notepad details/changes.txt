@@ -1,0 +1,113 @@
+https://meet.google.com/rjs-fshq-ewe (Google Meeting Link)
+
+<body class="bg-image">
+class="bg-image"
+class="bg-text"
+
+
+<asp:Panel ID="pnl_View" runat="server">
+              <table width="100%">  
+                <tr class=" headingtr">
+                    <td class="Headingstyles">
+                       <asp:Label ID="Label4" runat="server" Text="Advanced Search" Width="97%" Font-Bold="True">
+                    </asp:Label>
+                    </td>
+                </tr>
+                </table>
+            </asp:Panel>
+
+
+width="100%"
+Width="97%"
+Width="97%" BackColor="#D1DAF6"
+Width="97%" BackColor="#D1DAF6"
+
+
+                          <Header>
+                                Aircraft Details
+                            </Header>
+
+
+  <asp:Panel ID="pnl_chnagerequestselectiondetails" Width="100%" runat="server">
+
+                <table style="width: 100%">
+                    <tr class=" headingtr" style="width: 93%" align="left">
+                        <td class="Headingstyles">
+                            <asp:Label ID="lbl_select" runat="server" Text="Change Request Details"></asp:Label>
+                             <font color="red">*</font>
+                        </td>
+                        <td style="width: 7%" align="right">
+                            <asp:ImageButton ID="imgbtn_selectchangerequestdetails" runat="server" ImageUrl="~/Images/Buttons/configure.png" OnClick="imgbtn_selectchangerequestdetails_Click" OnClientClick="ShowProgress()" />
+                        </td>
+                    </tr>
+                </table>
+                <asp:PlaceHolder ID="plc_changerequestdetails" runat="server"></asp:PlaceHolder>
+            </asp:Panel>
+
+
+[CssClass="mydatagrid"  PagerStyle-CssClass = "pager"  RowStyle-CssClass = "rows" HeaderStyle-CssClass = "header" ]
+
+style="background-color: #D1DAF6;"
+
+style="background-color: #D1DAF6;"
+
+#6C63FF  ( undraw vector images color code )
+
+	96000080
+
+NOC PAGES
+
+NOCObservationSearch.aspx
+AssignedObservation.aspx
+NOCObservationOverview.aspx
+ObservationWorkflow.aspx
+CreateScheduleWeeklyInspections.aspx
+ViewScheduleWeeklyInspections.aspx
+ScheduleInspectionOverview.aspx
+
+Skype
+Karanamreddy Manojkumar
+manoj@1234
+
+108DC7(linear)
+FF7800
+https://web.skype.com/ (Skype Login Link)
+
+https://www.figma.com/file/f0Td5Ir6p1IPC1LnNKfYy9/Untitled?node-id=0%3A1 
+(Figma INGREDION Design Screens Link)
+
+
+https://youtu.be/PeGfX7W1mJk
+Figma Mobile App Design Tutorial
+
+https://www.freepik.com/free-photos-vectors/girl (free images for web page development and mobile app development)
+
+
+langauges dropdown la kakunda accordion laga pettali regions(check box) also no dropdown 
+
+Tiffany Bui (youtube channel)
+
+https://www.thehoth.com/free-online-logo-maker/ (Free logo maker link)
+https://logomaker.thehoth.com/
+https://www.designevo.com/logo-maker/ (logo maker for free)
+logomakr.com
+
+
+DATE : - JULY - 02 - 2021 
+
+CLAINT FEEDBACK SCREENS.
+
+1 - Approved
+2 - Awaiting Approval
+3 - Trash
+4 - Are you sure you want delete this request and the document permanently ?
+5 - Rejected
+6 - Version History
+7 - Folder Successfully Moved
+8 - Upload New File (Meta Data Drop Down screen)
+9 - Upload New File (Select Multiple Destination to upload files screen)
+10 - Upload New File (Select Calander display screen)
+11 - Reports Reports by expiry screen.
+
+Input Field Interaction using Interactive Components in Figma | Input Field Figma - Figma Text Field
+

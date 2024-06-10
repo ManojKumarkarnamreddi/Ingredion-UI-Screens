@@ -1,0 +1,48 @@
+developer.android.com/studio
+
+git-scm.com/downloads
+
+
+flutter.dev/docs/get-started/install
+
+dartpad.dartlang.org
+
+dart is developed by google
+
+
+Course Files : - https://github.com/iamshaunjp/flutter
+ 
+Android Studio : -  https://developer.android.com/studio
+
+Git : -   https://git-scm.com/downloads
+
+Fluttet Installation : -  https://flutter.dev/docs/get-started/
+
+
+
+
+
+flutter overview
+
+root widget
+
+1 - app bar widget
+2 - text widget
+
+1 - container widget
+2 - text widget
+
+text widget
+button widget
+row widget
+column widget
+image widget
+
+
+void main() {
+print('hello');
+
+int age = 30;
+print(age);
+
+}

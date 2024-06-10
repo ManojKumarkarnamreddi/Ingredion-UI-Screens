@@ -1,0 +1,35 @@
+DATE : JUNE -  21  - 2021
+
+
+1 - What shell we do today?
+
+2 - He will start rejected screen?
+  2.(A) Under Rejected what are the fields will came?
+    -- File Name
+    -- Rejected By
+    -- Actions
+    --
+
+     any buttons are needed in this screen?
+  
+
+3 - Access Control ?
+  3.(A) Under Access Control what are the fields will came?
+
+
+I WILL SHARE WITH YOU HERE YESTERDAY'S SCREENS SO ARE THERE ANY RECTIFICATIONS PLEASE TELL ME THEN I WILL DO IT
+
+AND AFTER THIS WE WILL DISCUSS TODAY'S SCREENS. IS IT OK ABHISHEK?
+
+
+DATE : JUNE -  22  - 2021
+
+30 mins changes doing (21-june-2021) screens - rejected is ok and version history is changed file name and version histroy changes.
+
+
+DATE : JUNE -  23  - 2021
+
+Worked on design upload new file screens
+configuration create values screen
+
+

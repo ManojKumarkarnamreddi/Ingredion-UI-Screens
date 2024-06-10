@@ -1,0 +1,38 @@
+Firstly create module name
+
+screen 
+
+
+generated id automatically
+
+
+user roles screen
+
+admin or user then who 
+
+
+menu list
+
+School  
+
+parent and child 
+
+level one and level two
+
+How To Insert Form Value Into MYSQL Database using PHP | Mysql Inserting Data Into Tables
+
+wpshopmart
+
+
+PHP Crud Operations - Select, Insert, Update, Delete | PHP Tutorial For Beginners | Simplilearn
+
+
+
+
+https://blog.hubspot.com/website/scrolling-text-css (css scrolling text)
+
+https://www.c-sharpcorner.com/article/creating-a-simple-login-page-using-html-and-css/ (css login)
+
+IDE (integrated development environment)
+
+what is your favourite IDE?

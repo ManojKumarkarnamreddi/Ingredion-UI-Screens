@@ -1,0 +1,40 @@
+body {
+color:#6a6f8c;
+}
+
+
+
+.login-wrap{
+
+background:url(https://raw.githubusercontent.com/khadkamhn/day-01-login-form/master/img/bg.jpg) no-repeat center;
+	box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+
+}
+
+
+
+bootstraplogin.html
+
+
+body, html {
+
+background: #60a3bc !important;
+}
+
+#scroll-container {
+  border: 1px solid var(--white);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+
+.brand_logo_container {
+			position: absolute;
+			height: 170px;
+			width: 170px;
+			top: -75px;
+			border-radius: 50%;
+			background: #60a3bc;
+			padding: 10px;
+			text-align: center;
+		}

@@ -1,0 +1,22 @@
+C:\xampp\htdocs\entreplan3.1\lib\confs (link)
+
+server = '192.168.235.28';
+
+dbhost = 'localhost';
+
+dbpost = '3306';  (deafault)
+
+
+dbname = 'erp31';
+
+
+dbuser = 'root';
+
+
+dbpass = '';
+
+
+version = '4.2.0.1';
+
+
+
